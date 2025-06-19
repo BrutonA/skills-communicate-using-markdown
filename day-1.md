@@ -7,3 +7,9 @@
 - Figure out bullet points
 
 ### Remaining to-do
+
+
+## Adding some code 
+x <- 25
+y <- 7
+x+y
