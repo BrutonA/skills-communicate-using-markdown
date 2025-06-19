@@ -10,6 +10,10 @@
 
 
 ## Adding some code 
+```{r}
 x <- 25
 y <- 7
 x+y
+```
+
+
