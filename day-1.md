@@ -1,5 +1,9 @@
 # Daily tasks
+- [ ] Finish GitHub training
+- [ ] Try Github desktop
+- [x] Eat breakfast
 
 ## Remaining questions
+- Figure out bullet points
 
 ### Remaining to-do
